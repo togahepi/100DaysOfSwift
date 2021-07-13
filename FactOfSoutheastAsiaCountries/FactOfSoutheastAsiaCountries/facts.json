@@ -1,0 +1,104 @@
+{
+  "facts" : [
+    {
+      "countryName": "Socialist Republic of Vietnam",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1280px-Flag_of_Vietnam.svg.png",
+      "capital": "Hanoi",
+      "language": "Vietnamese",
+      "area": 331699,
+      "population": 962008984,
+      "currency": "VND",
+      "callingCode": "+84"
+    },
+    {
+      "countryName": "Lao People's Democratic Republic",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/1280px-Flag_of_Laos.svg.png",
+      "capital": "Vientiane",
+      "language": "Lao",
+      "area": 237955,
+      "population": 7123205,
+      "currency": "LAK",
+      "callingCode": "+856"
+    },
+    {
+      "countryName": "Kingdom of Cambodia",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/1920px-Flag_of_Cambodia.svg.png",
+      "capital": "Phnom Penh",
+      "language": "Khmer",
+      "area": 181035,
+      "population": 15552211,
+      "currency": "KHR",
+      "callingCode": "+855"
+    },
+    {
+      "countryName": "Republic of Singapore",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1280px-Flag_of_Singapore.svg.png",
+      "capital": "Singapore",
+      "language": "Malay",
+      "area": 728,
+      "population": 5703600,
+      "currency": "SGD",
+      "callingCode": "+65"
+    },
+    {
+      "countryName": "Malaysia",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/1920px-Flag_of_Malaysia.svg.png",
+      "capital": "Kuala Lumpur",
+      "language": "Bahasa Melayu",
+      "area": 330803,
+      "population": 32730000,
+      "currency": "RM",
+      "callingCode": "+60"
+    },
+    {
+      "countryName": "Republic of Indonesia",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1280px-Flag_of_Indonesia.svg.png",
+      "capital": "Jakarta",
+      "language": "Indonesian",
+      "area": 1904569,
+      "population": 270203917,
+      "currency": "IDR",
+      "callingCode": "+62"
+    },
+    {
+      "countryName": "Republic of the Union of Myanmar",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1280px-Flag_of_Myanmar.svg.png",
+      "capital": "Naypyidaw",
+      "language": "Burmese",
+      "area": 676578,
+      "population": 53582855,
+      "currency": "MMK",
+      "callingCode": "+95"
+    },
+    {
+      "countryName": "Kingdom of Thailand",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1280px-Flag_of_Thailand.svg.png",
+      "capital": "Bangkok",
+      "language": "Thai",
+      "area": 513120,
+      "population": 69950850,
+      "currency": "THB",
+      "callingCode": "+66"
+    },
+    {
+      "countryName": "Nation of Brunei, the Abode of Peace",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/1920px-Flag_of_Brunei.svg.png",
+      "capital": "Bandar Seri Begawan",
+      "language": "Malay",
+      "area": 5765,
+      "population": 460345,
+      "currency": "BND",
+      "callingCode": "+673"
+    },
+    {
+      "countryName": "Democratic Republic of Timor-Leste",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1920px-Flag_of_East_Timor.svg.png",
+      "capital": "Dili",
+      "language": "Tetum",
+      "area": 15007,
+      "population": 1340513,
+      "currency": "USD",
+      "callingCode": "+670"
+    }
+    ]
+}
